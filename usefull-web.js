@@ -5,7 +5,7 @@ function uselessWebButton(button, popup) {
 	var randomRange = 7
 
 	var sitesList = [
-		"https://faiz-x-it.github.io/",
+		"faiz-x-it.github.io/",
     "https://faiz-x-it.github.io/the-usefull-website"
 	]
 
