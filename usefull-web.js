@@ -5,8 +5,37 @@ function uselessWebButton(button, popup) {
 	var randomRange = 7
 
 	var sitesList = [
-		"faiz-x-it.github.io/",
-    "https://faiz-x-it.github.io/the-usefull-website"
+"faiz-x-it.github.io/",
+"Zapier.com",
+"hackthemenu.com",
+"builtwith.com",
+"spyfu.com",
+"similarweb.com",
+"livechat.com",
+"resumemaker.online",
+"downforeveryoneorjustme.com",
+"duckduckgo.com",
+"you.com",
+"airhorner.com",
+"smallpdf.com",
+"myactivity.google.com",
+"flick.tech",
+"flodesk.com",
+"documents.reverso.net",
+"flippa.com",
+"https://www.ninjaessays.com/",
+"http://sleepyti.me/",
+"www.compressor.io",
+"https://icons8.com/upscaler",
+"https://www.startups.fyi/",
+"https://www.vectorwiki.com",
+"https://www.midomi.com",
+"https://www.buildai.space/",
+"https://www.kartiv.com/",
+"https://ideasai.com/",
+"https://www.media.io/",
+"https://gofile.io/",
+"https://faiz-x-it.github.io/the-usefull-website"
 	]
 
 	var sites = null
